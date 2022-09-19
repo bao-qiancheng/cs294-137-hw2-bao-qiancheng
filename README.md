@@ -32,6 +32,16 @@ Add the following github IDs so that we can access these:
 bjo3rn 
 o0WeiyuFeng0o
 
+### Introduction
+This is a new Advanture Bowling game, in the game, the player needs to move the ball to hit all the pins on the court to win the game.
+
+### Submission
+I tried to push my unity files to my repo on github, however there was a 25mb limitiation and my unity package is way larger than that, so I upload all my code in the folder named Scripts.  Considering it is very incovenient to check the incomplete unity engineering ducuments, I uploaded the unity package on google drive and here is the link.
+https://drive.google.com/file/d/1i-vsHXU2lIOoSxBuJpdYuLiFrDZX_mi5/view?usp=sharing
+
+And here's the link for the video:
+https://www.youtube.com/watch?v=ok_YYW8UYik
+
 **Submit a link to your repo and your video on bCourses.** Do not modify your repo after the submission deadline.
 
 ## Setting Up Your Project:
