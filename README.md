@@ -32,6 +32,10 @@ Add the following github IDs so that we can access these:
 bjo3rn 
 o0WeiyuFeng0o
 
+**Submit a link to your repo and your video on bCourses.** Do not modify your repo after the submission deadline.
+
+## My Submission: 
+
 ### Introduction
 This is a new Advanture Bowling game, in the game, the player needs to move the ball to hit all the pins on the court to win the game.
 
@@ -41,8 +45,6 @@ https://drive.google.com/file/d/1i-vsHXU2lIOoSxBuJpdYuLiFrDZX_mi5/view?usp=shari
 
 And here's the link for the video:
 https://www.youtube.com/watch?v=ok_YYW8UYik
-
-**Submit a link to your repo and your video on bCourses.** Do not modify your repo after the submission deadline.
 
 ## Setting Up Your Project:
 Note the assets used in this assignmente was tested on Unity 2020.3.17f1. It may work in other versions too.
